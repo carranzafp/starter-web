@@ -19,4 +19,4 @@ Adding deployment
 Please fork the repo and make pull request
 
 ##Copyright
-Text Copyright
+All rights reserved
