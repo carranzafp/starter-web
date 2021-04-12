@@ -15,3 +15,6 @@ Adding purpose
 Adding deployment
 
 ## How to Contribute
+
+##Copyright
+Text Copyright
