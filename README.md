@@ -1,5 +1,7 @@
 #Starter Web Project
 
+Sample website
+
 ## Introduction
 
 ## Purpose
