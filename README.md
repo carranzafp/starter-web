@@ -16,5 +16,7 @@ Adding deployment
 
 ## How to Contribute
 
+Please fork the repo and make pull request
+
 ##Copyright
 Text Copyright
