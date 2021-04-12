@@ -1,6 +1,7 @@
 # Starter Web Project
 
-Sample website. addin line for rebase example, then more changes to myfeature branch too
+Sample website. addin line for rebase example,Updating a linea
+after stash
 
 ## Introduction
 
